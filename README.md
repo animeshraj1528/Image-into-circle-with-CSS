@@ -5,4 +5,4 @@ Just parse the .zip file an fetch to the index.html file and understand the code
 ☺
 ☻
 
-Languages I know :- HTML ; JavaScript ; CSS ; Python ; HTA ; Bootstrap ;
+Languages I know :- HTML ; JavaScript ; CSS ; Python ; HTA ; Bootstrap ; LOGO ;
